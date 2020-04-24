@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 18.0.14.0 for Windows">
+<title></title>
+</head>
+<body>
+<h2>主な研究テーマ<br>
+<b><span lang="EN-US" style='font-size:12.0pt;
+line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>（１）　Augmented Software DevOps<br>
+</span></b><span lang=EN-US style='font-size:9.0pt;line-height:
+80%;font-family:"Century Gothic",sans-serif;mso-fareast-font-family:"BIZ UDP明朝 Medium";
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'></span><b><span style='font-size:12.0pt;line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'><span lang=EN-US></span>　　　　次世代ソフトウェアエコシステムの実現に向けたソフトウェア開発運用の拡張</span></b></h2>
+<p><font SIZE="-1"><span lang="EN-US" style='font-family:"BIZ UDP明朝 Medium",serif'><span lang="EN-US" style='font-size:9.0pt;line-height:
+80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　</span><span
+style='font-size:9.0pt;line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'><span lang="EN-US" style='font-size:10.0pt;line-height:
+115%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>IoT</span><span
+style='font-size:10.0pt;line-height:115%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'>や<span lang=EN-US>AI</span>等の新たなデジタル技術の進展は，ソフトウェアの重要性と多様性をますます高めています．ソフトウェア開発運用が直面する技術的課題を解決し，より高い品質のソフトウェアを社会全体で蓄積，共有，循環するための，より一層の技術革新が求められているとも言えます．</span></span></span><br>
+</font><span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>本研究では，<span lang="EN-US">AI</span>，自然言語処理，サービス化，ブロックチェーン等の最新デジタル技術を積極的に活用，連携させることで，ソフトウェア開発運用の今日的な技術的課題を解決し，これからのソフトウェアエコシステムを支える技術へと展開します．具体的には，「技術的負債の増加」，「人的資源の不足」，および，「技術情報の多様化」といった技術的課題を詳細に解析すると共に，それらの解決に向けた基盤技術を開発します．「プロダクトのアップサイクリング」，「人と<span lang="EN-US">AI</span>の適材適所配置」，「外部技術情報ともリンクする品質管理」という従来にはない着想とアプローチにより，ソフトウェア開発運用に係る無駄を極力排除することで高い経済性と持続可能性を実現し，より一層の技術革新と新たな技術体系の構築にもつながる創造性の高い成果を目指します．</span></span><br>
+<span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>本研究の成果は，ソフトウェア開発運用における３つの概念「再利用」，「人的資源」，および，「品質管理」を拡張し，新たな技術体系の構築につながると考えています．例えば，プログラムコードのアップサイクリングは，ソフトウェア開発運用作業の大半を，「作る，修正する」から「選ぶ」にシフトすることになります．また，人と<span lang="EN-US">AI</span>の適材適所配置は，ソフトウェア開発運用の組織や体制づくりを変革し，ソフトウェア開発運用者によるより創造的な取り組みとスキルアップを可能にします．そして，外部技術情報ともリンクする品質管理は，技術革新が進む分野でのソフトウェアの開発と活用をこれまで以上に後押しし，学術情報のさらなる活用やデジタルトランスフォーメーションの進展にも資すると考えています．</span></span></p>
+<h2><b><span lang="EN-US" style='font-size:12.0pt;
+line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>（2）　<span style='font-size:12.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>ソフトウェア更新履歴を核としたソフトウェア定量的評価</span></span></b><span lang="EN-US" style='font-size:9.0pt;line-height:
+80%;font-family:"Century Gothic",sans-serif;mso-fareast-font-family:"BIZ UDP明朝 Medium";
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'></span><b><span style='font-size:12.0pt;line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'><span lang="EN-US"></span></span></b></h2>
+<p><font SIZE="-1"><span lang="EN-US" style='font-family:"BIZ UDP明朝 Medium",serif'><span style='font-size:9.0pt;line-height:
+80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>ソフトウェア（ソースコード）のみを評価対象とするのではなく，ソフトウェアが加筆修正される過程（更新履歴）を併せて解析することで，ソフトウェア開発のプロセスやその人的要因までも定量的に評価可能となることを，理論的枠組みの構築と数多くの実証実験を通じて示してきています．</span></span></span><br>
+</font><span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span lang="EN-US" style='font-size:10.0pt;line-height:
+115%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>1980</span><span
+style='font-size:10.0pt;line-height:115%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'>年代，ソフトウェアの定量的評価に関する多くの研究では，計算機処理が可能で収集も容易な「ソースコード」が評価対象とされており，開発のプロセスやその人的要因を定量的に評価する研究は行われていませんでした．そのため，例えば，開発者の特性や個人差は，ソフトウェアの生産性や品質に数倍から数十倍の差を生じさせるとされ，その定量的評価の重要性は広く認識されていたにもかかわらず，実際には，「経験年数」や「これまでに開発したソフトウェアの最大行数」といった経験的な指標が用いられているに過ぎませんでした．</span></span><br>
+<span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>これに対して，「ソフトウェアの更新履歴は，開発プロセスからの出力の系列（時間変化）と見なすことが出来る．更新履歴をつぶさに解析すれば開発プロセスがどのように進行したか，また，プロセスを実施した開発者の特性や個人差も明らかに出来るのではないか．」という，それまでにはない着想に基づき研究に着手しました．それ以来，ソフトウェア更新履歴を組織的に収集するしくみを開発すると共に，ソフトウェアの開発プロセスや開発者を，ソフトウェア更新履歴に基づいて評価する定量的尺度（ソフトウェアメトリクス）を数多く提案し，その妥当性，有用性を実証実験により示してきています．</span></span></p>
+<h2><b><span lang="EN-US" style='font-size:12.0pt;
+line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>（3）　<span style='font-size:12.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>開発作業を妨げない定量的プロジェクト管理</span></span></b><span lang="EN-US" style='font-size:9.0pt;line-height:
+80%;font-family:"Century Gothic",sans-serif;mso-fareast-font-family:"BIZ UDP明朝 Medium";
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'></span><b><span style='font-size:12.0pt;line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'></span></b></h2>
+<p><font SIZE="-1"><span lang="EN-US" style='font-family:"BIZ UDP明朝 Medium",serif'><span style='font-size:9.0pt;line-height:
+80%;font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　</span><span
+style='font-size:9.0pt;line-height:80%;font-family:"BIZ UDP明朝 Medium",serif;
+mso-bidi-font-family:"BIZ UDP明朝 Medium";mso-ansi-language:EN-US;mso-fareast-language:
+JA;mso-bidi-language:AR-SA'><span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>ソフトウェア開発プロジェクトにおいて広く利用されている開発支援システムを介して，ソフトウェアとその開発プロセスに関する定量的データを収集することが可能であり，収集データから，定量的プロジェクト管理に活用できる多様な解析結果が得られることを，システム構築と多くの適用事例を通じて示してきています．</span></span></span><br>
+</font><span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>　<span style='font-size:10.0pt;line-height:115%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'>ソフトウェア構成管理システムや不具合管理システムといった開発支援システムは，開発に関するデータを一元的に収集・管理することで，開発作業の繁雑さを軽減することができます．開発者からすれば，支援を受けるためにシステムを利用しているだけであり，データ収集のために余計な作業・工数が発生したり，開発作業が中断されたりすることはありません．（１）でも述べた「ソフトウェア更新履歴」を例にとると，ソフトウェア構成管理システムから容易に得ることができます．</span></span><span style='font-size:9.0pt;line-height:80%;
+font-family:"BIZ UDP明朝 Medium",serif;mso-bidi-font-family:"BIZ UDP明朝 Medium";
+mso-ansi-language:EN-US;mso-fareast-language:JA;mso-bidi-language:AR-SA'><br>
+</span></p>
+</body>
+</html>
